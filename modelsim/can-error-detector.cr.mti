@@ -1,0 +1,31 @@
+C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package ENV
+** Warning: C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd(6): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+-- Compiling entity can_error_detector_tb
+-- Compiling architecture sim of can_error_detector_tb
+-- Loading entity can_error_detector
+
+} {} {}} C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity can_dominant_detector
+-- Compiling architecture rtl of can_dominant_detector
+
+} {} {}} C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity can_error_detector
+-- Compiling architecture rtl of can_error_detector
+
+} {} {}}

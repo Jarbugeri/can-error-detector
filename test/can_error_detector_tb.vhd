@@ -26,8 +26,7 @@ begin
     generic map(
         CLOCK_FREQ => clk_hz,
         BAUD_RATE  =>  1e6,
-        N_BIT      =>  5
-    );
+        N_BIT      =>  5)
     port map(
         clk  => clk,
         rst  => rst,
@@ -77,7 +76,7 @@ begin
         
         wait for clk_period * 1000;
 
-        assert enable_p = 1 and enable_n = 1
+        assert enable_p = '1' and enable_n = '1'
             report "Fail to detect"
             severity failure;
 

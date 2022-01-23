@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jose/Dropbox/Mestrado_Jose_Augusto_Arbugeri/ProgramaQuartus/MODULADOR_PFC
+Ecan_dominant_detector
+Z0 w1642955651
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/modelsim
+Z5 8C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd
+Z6 FC:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd
+l0
+L5
+V6ikgMS[P7Bg9X?llhDIC80
+!s100 fo?=_V5I?PLLA@CCaBS@J2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1642959275
+!i10b 1
+Z9 !s108 1642959275.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd|
+Z11 !s107 C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_dominant_detector.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 21 can_dominant_detector 0 22 6ikgMS[P7Bg9X?llhDIC80
+l27
+L19
+VGZbeOIVbWP4J<?cgFh2dD1
+!s100 EKcDjLg;=^HX3V>6dfGR^1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecan_error_detector
+Z14 w1642957811
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd
+Z16 FC:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd
+l0
+L5
+V3E^A;HR:gW^RWQ0CQaL^=2
+!s100 Jf1i3Sj_6nHZQ0@b89d173
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd|
+Z18 !s107 C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/src/can_error_detector.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z19 DEx4 work 18 can_error_detector 0 22 3E^A;HR:gW^RWQ0CQaL^=2
+l40
+L23
+VVJm?okO?4HO^:;_mR>e6:3
+!s100 kKz@kV0lSiem]Tde6Om>c0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ecan_error_detector_tb
+Z20 w1642959270
+Z21 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R1
+R2
+R3
+R4
+Z22 8C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd
+Z23 FC:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd
+l0
+L8
+VBkI_CM0DLk6WQK<e^JnOL3
+!s100 l@0Q:2=W[4[>ek5G_Kn]A2
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd|
+Z25 !s107 C:/Users/Jose/Dropbox/Reivax/CAN/can-error-detector/test/can_error_detector_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+R19
+R21
+R1
+R2
+R3
+DEx4 work 21 can_error_detector_tb 0 22 BkI_CM0DLk6WQK<e^JnOL3
+l21
+L11
+VBk;6oF@SoB`@Lmk[;`J883
+!s100 ZFHkGE9ek9F9Rcb5m=eSG2
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
