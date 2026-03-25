@@ -50,7 +50,7 @@ begin
                         counter <= counter + 1;
                         if counter >= limit then
                             counter <= 0;
-                            state <= CAN_BUS_FAIL;
+                            state <= CAN_BUS_WORKING;
                         end if;
                     else 
                         counter <= 0;
